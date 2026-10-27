@@ -1,0 +1,10 @@
+﻿  main.c
+C:\Users\edlau\OneDrive\!FUMEC\2026_02\Estrutura_de_Dados\TesteC\TesteC\main.c(88,32): warning C4244: '+=': conversão de 'double' para 'float', possível perda de dados
+C:\Users\edlau\OneDrive\!FUMEC\2026_02\Estrutura_de_Dados\TesteC\TesteC\main.c(89,17): warning C4305: '*=': truncamento de 'double' para 'float'
+C:\Users\edlau\OneDrive\!FUMEC\2026_02\Estrutura_de_Dados\TesteC\TesteC\main.c(92,32): warning C4244: '+=': conversão de 'double' para 'float', possível perda de dados
+C:\Users\edlau\OneDrive\!FUMEC\2026_02\Estrutura_de_Dados\TesteC\TesteC\main.c(93,17): warning C4305: '*=': truncamento de 'double' para 'float'
+C:\Users\edlau\OneDrive\!FUMEC\2026_02\Estrutura_de_Dados\TesteC\TesteC\main.c(96,32): warning C4244: '+=': conversão de 'double' para 'float', possível perda de dados
+C:\Users\edlau\OneDrive\!FUMEC\2026_02\Estrutura_de_Dados\TesteC\TesteC\main.c(97,17): warning C4305: '*=': truncamento de 'double' para 'float'
+C:\Users\edlau\OneDrive\!FUMEC\2026_02\Estrutura_de_Dados\TesteC\TesteC\main.c(100,32): warning C4244: '+=': conversão de 'double' para 'float', possível perda de dados
+C:\Users\edlau\OneDrive\!FUMEC\2026_02\Estrutura_de_Dados\TesteC\TesteC\main.c(101,17): warning C4305: '*=': truncamento de 'double' para 'float'
+  TesteC.vcxproj -> C:\Users\edlau\OneDrive\!FUMEC\2026_02\Estrutura_de_Dados\TesteC\x64\Debug\TesteC.exe
